@@ -5,8 +5,9 @@ Worked with a publicly available BMW dataset on Kaggle to develop statistical, m
 
 ## Planned Major Improvements
 
-- **Improved pipeline** to ensure all data is properly stored (e.g., dataset split, input columns, kfold...)
 - **Reduction of variables** to avoid multicollinearity
+- **Further finetuning** to achieve adjusted R² > 0.9
+- **Improved pipeline** to ensure all data is properly stored (e.g., dataset split, input columns, kfold...)
 
 ## Dataset
 **Dataset source:** The dataset was uploaded by **Daniel Kyrka** on [Kaggle – BMW Pricing Challenge](https://www.kaggle.com/datasets/danielkyrka/bmw-pricing-challenge).
