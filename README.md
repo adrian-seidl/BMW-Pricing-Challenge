@@ -1,7 +1,7 @@
 # BMW-Pricing-Challenge
 
 ## Description
-Comparison of Multiple Linear Regression, XGBoost, and a Neural Network on a regression task using the publicly available BMW Pricing Challenge Dataset from Kaggle.
+Worked with a publicly available BMW dataset on Kaggle to develop statistical, machine learning, and deep learning models for vehicle price prediction. Built a multiple regression baseline, explored XGBoost for efficient ML training, and trained a deep learning model to capture complex patterns. Gained hands-on experience with model pipelines, logging, and parameter tuning, while learning best practices for reproducibility and scalable workflows.
 
 ## Planned Major Improvements
 
