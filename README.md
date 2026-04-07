@@ -5,7 +5,7 @@ Comparison of Multiple Linear Regression, XGBoost, and a Neural Network on a reg
 
 ## Planned Major Improvements
 
-- **Improved pipeline** to ensure all data is properly stored (e.g., used splits, preprocessing steps, etc.)
+- **Improved pipeline** to ensure all data is properly stored (e.g., dataset split, input columns, kfold...)
 - **Reduction of variables** to avoid multicollinearity
 
 ## Dataset
